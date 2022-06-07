@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory `d:/2.Hal_AutoCode'
+make.exe: Leaving directory `d:/2.Hal_AutoCode'
+ 
+make.exe: *** Ÿ���� �������� �ʾҰ� ����ũ������ �����ϴ�.  ����.
+
